@@ -1,7 +1,0 @@
-C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\wwwroot\src\_temp-screenshots\schedule-brew-02.png
-C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\wwwroot\src\_temp-screenshots\table-01.png
-C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\wwwroot\src\_temp-screenshots\table-02.png
-C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\wwwroot\src\_temp-screenshots\table-03.png
-C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\wwwroot\src\_temp-screenshots\ui-mockup-schedule-brew.png
-C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\wwwroot\src\_temp-trimmed-db\brew-scheduler-trimmed-db-model.mwb
-C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\wwwroot\src\_temp-trimmed-db\brew-scheduler-trimmed-db-model.png

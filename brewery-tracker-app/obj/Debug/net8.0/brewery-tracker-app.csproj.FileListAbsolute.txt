@@ -140,3 +140,4 @@ C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-
 C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\bin\Debug\net8.0\mySqlSettings.json
 C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brewery-tracker-app\obj\Debug\net8.0\brewery-tracker-app.sourcelink.json

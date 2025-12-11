@@ -1,8 +1,24 @@
+using brew_schedule_data.Models;
+using brew_schedule_data.ServerData;
+using System.Text.Json.Serialization;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+// ADD CORS POLICY - IN A PRODUCTION APP LOCK THIS DOWN!
+builder.Services.AddCors(options => {
+    options.AddDefaultPolicy(
+    builder => {
+        builder.AllowAnyOrigin()
+        .WithMethods("POST", "PUT", "DELETE", "GET", "OPTIONS")
+        .AllowAnyHeader();
+    });
+});
+// ADDING THE DBCONTEXT TO THE SERVICE
+builder.Services.AddDbContext<BitsContext>();
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -17,6 +33,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseDefaultFiles();
+app.UseStaticFiles();
 
 app.UseAuthorization();
 
