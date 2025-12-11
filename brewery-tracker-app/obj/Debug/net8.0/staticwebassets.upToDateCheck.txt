@@ -1,0 +1,10 @@
+wwwroot\brew-schedule.html
+wwwroot\src\_temp-screenshots\schedule-brew-02.png
+wwwroot\src\_temp-screenshots\table-01.png
+wwwroot\src\_temp-screenshots\table-02.png
+wwwroot\src\_temp-screenshots\table-03.png
+wwwroot\src\_temp-screenshots\ui-mockup-schedule-brew.png
+wwwroot\src\_temp-trimmed-db\brew-scheduler-trimmed-db-model.mwb
+wwwroot\src\_temp-trimmed-db\brew-scheduler-trimmed-db-model.png
+wwwroot\src\favicon.ico
+wwwroot\src\transparentLogo.png

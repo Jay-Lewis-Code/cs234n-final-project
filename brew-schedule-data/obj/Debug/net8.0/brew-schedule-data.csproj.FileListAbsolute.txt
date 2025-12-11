@@ -1,0 +1,15 @@
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\bin\Debug\net8.0\brew-schedule-data.deps.json
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\bin\Debug\net8.0\brew-schedule-data.dll
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\bin\Debug\net8.0\brew-schedule-data.pdb
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\obj\Debug\net8.0\brew-schedule-data.csproj.AssemblyReference.cache
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\obj\Debug\net8.0\brew-schedule-data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\obj\Debug\net8.0\brew-schedule-data.AssemblyInfoInputs.cache
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\obj\Debug\net8.0\brew-schedule-data.AssemblyInfo.cs
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\obj\Debug\net8.0\brew-schedule-data.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\obj\Debug\net8.0\brew-schedule-data.dll
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\obj\Debug\net8.0\refint\brew-schedule-data.dll
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\obj\Debug\net8.0\brew-schedule-data.pdb
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\obj\Debug\net8.0\ref\brew-schedule-data.dll
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\bin\Debug\net8.0\brew-schedule-data.runtimeconfig.json
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\obj\Debug\net8.0\brew-schedule-data.genruntimeconfig.cache
+C:\Users\Jay\Desktop\School\CS234N_advanced_c_sharp\_labs\final-project\brew-schedule-data\bin\Debug\net8.0\mySqlSettings.json
