@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("brew-schedule-data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2f9ae1bad5341f830f1d51cb2709d66c639bd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("brew-schedule-data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("brew-schedule-data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

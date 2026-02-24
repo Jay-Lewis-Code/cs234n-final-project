@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cppj95fWGc0=",
+  "dgSpecHash": "BOF3LuOBvjQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jay\\Desktop\\School\\CS234N_advanced_c_sharp\\_labs\\final-project\\brewery-tracker-app\\brewery-tracker-app.csproj",
+  "projectFilePath": "C:\\Users\\Jay\\Desktop\\School\\_previous-courses\\CS234N-advanced-c-sharp\\_labs\\final-project\\brewery-tracker-app\\brewery-tracker-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jay\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Jay\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
@@ -82,16 +82,20 @@
     "C:\\Users\\Jay\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Jay\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Jay\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512",
-    "C:\\Users\\Jay\\.nuget\\packages\\zstdsharp.port\\0.8.0\\zstdsharp.port.0.8.0.nupkg.sha512"
+    "C:\\Users\\Jay\\.nuget\\packages\\zstdsharp.port\\0.8.0\\zstdsharp.port.0.8.0.nupkg.sha512",
+    "C:\\Users\\Jay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Jay\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Jay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Jay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1603",
       "level": "Warning",
       "message": "brewery-tracker-app depends on MySql.EntityFrameworkCore (>= 8.4.0) but MySql.EntityFrameworkCore 8.4.0 was not found. MySql.EntityFrameworkCore 9.0.0 was resolved instead.",
-      "projectPath": "C:\\Users\\Jay\\Desktop\\School\\CS234N_advanced_c_sharp\\_labs\\final-project\\brewery-tracker-app\\brewery-tracker-app.csproj",
+      "projectPath": "C:\\Users\\Jay\\Desktop\\School\\_previous-courses\\CS234N-advanced-c-sharp\\_labs\\final-project\\brewery-tracker-app\\brewery-tracker-app.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Jay\\Desktop\\School\\CS234N_advanced_c_sharp\\_labs\\final-project\\brewery-tracker-app\\brewery-tracker-app.csproj",
+      "filePath": "C:\\Users\\Jay\\Desktop\\School\\_previous-courses\\CS234N-advanced-c-sharp\\_labs\\final-project\\brewery-tracker-app\\brewery-tracker-app.csproj",
       "libraryId": "MySql.EntityFrameworkCore",
       "targetGraphs": [
         "net8.0"

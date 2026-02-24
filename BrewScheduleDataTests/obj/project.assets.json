@@ -5379,11 +5379,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jay\\Desktop\\School\\CS234N_advanced_c_sharp\\_labs\\final-project\\BrewScheduleDataTests\\BrewScheduleDataTests.csproj",
+      "projectUniqueName": "C:\\Users\\Jay\\Desktop\\School\\_previous-courses\\CS234N-advanced-c-sharp\\_labs\\final-project\\BrewScheduleDataTests\\BrewScheduleDataTests.csproj",
       "projectName": "BrewScheduleDataTests",
-      "projectPath": "C:\\Users\\Jay\\Desktop\\School\\CS234N_advanced_c_sharp\\_labs\\final-project\\BrewScheduleDataTests\\BrewScheduleDataTests.csproj",
+      "projectPath": "C:\\Users\\Jay\\Desktop\\School\\_previous-courses\\CS234N-advanced-c-sharp\\_labs\\final-project\\BrewScheduleDataTests\\BrewScheduleDataTests.csproj",
       "packagesPath": "C:\\Users\\Jay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jay\\Desktop\\School\\CS234N_advanced_c_sharp\\_labs\\final-project\\BrewScheduleDataTests\\obj\\",
+      "outputPath": "C:\\Users\\Jay\\Desktop\\School\\_previous-courses\\CS234N-advanced-c-sharp\\_labs\\final-project\\BrewScheduleDataTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5398,17 +5398,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Jay\\Desktop\\School\\CS234N_advanced_c_sharp\\_labs\\final-project\\brew-schedule-data\\brew-schedule-data.csproj": {
-              "projectPath": "C:\\Users\\Jay\\Desktop\\School\\CS234N_advanced_c_sharp\\_labs\\final-project\\brew-schedule-data\\brew-schedule-data.csproj"
+            "C:\\Users\\Jay\\Desktop\\School\\_previous-courses\\CS234N-advanced-c-sharp\\_labs\\final-project\\brew-schedule-data\\brew-schedule-data.csproj": {
+              "projectPath": "C:\\Users\\Jay\\Desktop\\School\\_previous-courses\\CS234N-advanced-c-sharp\\_labs\\final-project\\brew-schedule-data\\brew-schedule-data.csproj"
             },
-            "C:\\Users\\Jay\\Desktop\\School\\CS234N_advanced_c_sharp\\_labs\\final-project\\brewery-tracker-app\\brewery-tracker-app.csproj": {
-              "projectPath": "C:\\Users\\Jay\\Desktop\\School\\CS234N_advanced_c_sharp\\_labs\\final-project\\brewery-tracker-app\\brewery-tracker-app.csproj"
+            "C:\\Users\\Jay\\Desktop\\School\\_previous-courses\\CS234N-advanced-c-sharp\\_labs\\final-project\\brewery-tracker-app\\brewery-tracker-app.csproj": {
+              "projectPath": "C:\\Users\\Jay\\Desktop\\School\\_previous-courses\\CS234N-advanced-c-sharp\\_labs\\final-project\\brewery-tracker-app\\brewery-tracker-app.csproj"
             }
           }
         }
@@ -5423,7 +5424,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -5487,12 +5488,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.24, 8.0.24]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.24, 8.0.24]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.24, 8.0.24]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
