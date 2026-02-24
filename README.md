@@ -72,6 +72,7 @@ The following top-level packages are required (installed via NuGet):
 This project requires a **local MySQL server** instance.
 # Scripts to create the BITS database and update the data are located here:
 [BITS MySQL Database Create from Export:](https://citstudent.lanecc.edu/~lewisj628/CS234N/bitsDataFromExport1106.sql)
+
 [BITS MySQL Database Data from Export:](https://citstudent.lanecc.edu/~lewisj628/CS234N/bitsCreateFromExport1106.sql)
 
 1. **Install MySQL** – Ensure you have a MySQL server running locally (e.g., MySQL Community Server, XAMPP, or Docker).
