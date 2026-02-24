@@ -1,15 +1,14 @@
-# CS234 C# Advanced Final Project
-# Jason Lewis
-#
-#
+#  CS234 C# Advanced Final Project
+   Jason Lewis
+
 # Objective:
-#     Research the existing capstone project "BrewTrack" created from a previous group of LCC students.
-#     
-#     For a single major feature of the project:
-#        Create a set of user stories and a professional use-case document (following the Agile methodology)
-#        Map out and simplify the existing project database retaining only what is needed for that feature.
-#        Create a front end web page for that feature & preform RESTful API CRUD operations. Include unit testing and validate each endpoint via Postman or Swagger.
-#
+   Research the existing capstone project "BrewTrack" created from a previous group of LCC students.
+   
+   For a single major feature of the project:
+   Create a set of user stories and a professional use-case document (following the Agile methodology)
+   Map out and simplify the existing project database retaining only what is needed for that feature.
+   Create a front end web page for that feature & preform RESTful API CRUD operations. Include unit testing and validate each endpoint via Postman or Swagger.
+
 # Submission of documentation for completed project:
 [Word Document: Restful API Screnshots](https://citstudent.lanecc.edu/~lewisj628/CS234N/jaylewis-final-restful-api.docx)
 [PNG Screenshot: UX/UI Mockup](https://citstudent.lanecc.edu/~lewisj628/CS234N/jaylewis-final-project-ux-ui-mockup.png)
