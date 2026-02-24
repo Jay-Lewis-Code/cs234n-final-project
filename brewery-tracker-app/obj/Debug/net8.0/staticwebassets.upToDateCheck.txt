@@ -1,3 +1,0 @@
-wwwroot\brew-schedule.html
-wwwroot\src\favicon.ico
-wwwroot\src\transparentLogo.png
